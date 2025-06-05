@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Dev_0463Controller {
     @GetMapping("/dev_0463")
     public String getHello(){
-        return "Hello from Divyam";
+        return "Hello from divyam";
     }
 }
